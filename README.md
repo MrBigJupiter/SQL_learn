@@ -56,7 +56,7 @@ Main components:
 
 * Total revenue and sales volume trends over time
 * Revenue breakdown by brand and product category
-* Online vs. offline sales contribution
+* Online vs. Retail Stores sales contribution
 * Seasonal patterns (monthly / quarterly analysis)
 * Top-performing brands and products
 
